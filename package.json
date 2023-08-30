@@ -1,0 +1,25 @@
+{
+  "name": "pasrserforruly",
+  "version": "1.0.0",
+  "description": "Test case for Ruly",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "test-case",
+    "ruly"
+  ],
+  "author": "Kondyurin Konstantin",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "buffer": "^6.0.3",
+    "fast-xml-parser": "^4.2.7",
+    "iconv-lite": "^0.6.3",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7"
+  }
+}
