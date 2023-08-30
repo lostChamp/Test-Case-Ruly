@@ -2,7 +2,6 @@ import AdmZip from "adm-zip";
 import fs from "fs";
 import {fileURLToPath} from 'url';
 import path from "path";
-import {Buffer} from "buffer";
 
 
 export function downloadXMLFile(buffer) {
